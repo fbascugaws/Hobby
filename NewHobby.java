@@ -10,5 +10,6 @@ public class Hobby {
         System.out.println("I like playing video games.");
         System.out.println("I like playing watching anime and reading manga.");
         System.out.println("I like playing watching movies.");        
+        System.out.println("I like eating food.");   
     }
 }
