@@ -1,4 +1,4 @@
-public class Hobby {
+public class NewHobby {
     public static void main(String[] args) {
         // displayTraineeHobbyA();
         displayTraineeHobbyB();
@@ -9,5 +9,6 @@ public class Hobby {
     public static void displayTraineeHobbyB() {
         System.out.println("Trainee B’s Hobbies:");
         System.out.println("I want to be a tutubi.");
+        System.out.println("Another one of my hobbies is to be with you.");
     }
 }
