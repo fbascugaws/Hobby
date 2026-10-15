@@ -1,9 +1,10 @@
 public class NewHobby {
+public class NewHobby {
     public static void main(String[] args) {
         displayTraineeHobbyA();
         displayTraineeHobbyB();
         displayTraineeHobbyC();
-        // displayTraineeHobbyD();
+        displayTraineeHobbyD();
     }
 
     public static void displayTraineeHobbyA() {
@@ -22,5 +23,9 @@ public class NewHobby {
     public static void displayTraineeHobbyC() {
         System.out.println("Trainee C’s Hobbies: Looking for U");
 
+    }
+
+    public static void displayTraineeHobbyD() {
+        System.out.println("My hobby is ねますing です");
     }
 }
